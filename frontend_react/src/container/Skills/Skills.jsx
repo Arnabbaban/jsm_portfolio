@@ -1,9 +1,9 @@
 import React from 'react'
 import './Header.scss';
-const Header = () => {
+const Skills = () => {
   return (
-    <div>Header</div>
+    <div>Skills</div>
   )
 }
 
-export default Header
+export default Skills
